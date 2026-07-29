@@ -11,7 +11,7 @@
     "x_log": false,
     "y_log": true,
     "x_limits": [-0.01, 0.1],
-    "y_limits": [1e1, 1e4],
+    "y_limits": [1e1, 3162.28],
     "colors": ["#ff7f0e", "#00cc00"],
     "formats": ["png", "pdf", "svg"]
   },

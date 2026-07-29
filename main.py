@@ -28,7 +28,7 @@ def load_config(config_path):
                 "x_log": False,
                 "y_log": True,
                 "x_limits": [-0.01, 0.1],
-                "y_limits": [1e1, 1e4],
+                "y_limits": [1e1, 10**3.5],
                 "colors": ["#ff7f0e", "#00cc00"],
                 "formats": ["png", "pdf", "svg"]
             },
