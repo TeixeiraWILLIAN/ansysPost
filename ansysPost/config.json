@@ -1,0 +1,26 @@
+{
+  "data_dir": "data",
+  "output_dir": "output",
+  "plot_settings": {
+    "theme": "light",
+    "figure_size": [7, 6],
+    "line_width": 1.5,
+    "dpi": 300,
+    "show_grid": false,
+    "grid_alpha": 0.2,
+    "x_log": false,
+    "y_log": true,
+    "x_limits": [-0.01, 0.1],
+    "y_limits": [1e1, 1e4],
+    "colors": ["#ff7f0e", "#00cc00"],
+    "formats": ["png", "pdf", "svg"]
+  },
+  "labels": {
+    "use_config_labels": true,
+    "title": "",
+    "x": "Y (m)",
+    "y": "D95 (um)",
+    "xlabel": "Y (m)",
+    "ylabel": "D95 (um)"
+  }
+}
